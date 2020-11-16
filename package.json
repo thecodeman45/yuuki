@@ -1,0 +1,25 @@
+{
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.0",
+
+  "main": "Yuuki.py",
+
+  "scripts": {
+
+    "start": "Yuuki.py"
+
+  },
+
+  "dependencies": {
+
+    "discord.py": "1.5.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
