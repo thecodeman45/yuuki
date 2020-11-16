@@ -10,7 +10,7 @@
 
   "scripts": {
 
-    "start": "Yuuki.py"
+    "start": "python Yuuki.py"
 
   },
 
